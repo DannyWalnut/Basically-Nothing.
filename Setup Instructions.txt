@@ -1,0 +1,3 @@
+1. Copy the code into python and save
+2. Save the OwnedItems text file in the same location
+3. Play
